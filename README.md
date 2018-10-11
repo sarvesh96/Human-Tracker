@@ -2,17 +2,17 @@
 
 Pedestrian detection on **Raspberry Pi** using **Neural Nets**
 
-##Features
+## Features
 
 - **Trainable for other custom objects instead of Pedestrians**
 - Real-time detection 
 
-  ###Dataset features
+  ### Dataset features
   - TLD tracker(from OpenCV) can be used to extract cutom objects from videos, (requires C++)
   - Images can also be augmented (flipped/brightness/contrast) to increase dataset size
 
 
-##Working
+## Working
 - Train the system on the PC
 - Copy the saved weights onto the Pi
 - Two threads execute during runtime
@@ -23,12 +23,12 @@ Pedestrian detection on **Raspberry Pi** using **Neural Nets**
 - If it is the required object, it is marked and displayed
 
 
-##Dependencies
+## Dependencies
 
 - Python
 - Numpy
 - OpenCV
 
-##Sample Result
+## Sample Result
 [Image](/Results/result.png)
 
