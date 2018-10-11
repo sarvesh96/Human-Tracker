@@ -30,5 +30,5 @@ Pedestrian detection on **Raspberry Pi** using **Neural Nets**
 - OpenCV
 
 ## Sample Result
-[Image](/Results/result.png)
+![Image](/Results/result.png)
 
